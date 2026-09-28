@@ -84,7 +84,7 @@ h2 span { color: var(--accent); }
 .project-grid { display: grid; grid-template-columns: repeat(1, 1fr); gap: 22px; }
 .project-card { background: #fff; border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; transition: transform .25s, box-shadow .25s; }
 .project-card:hover { transform: translateY(-5px); box-shadow: var(--shadow); }
-.project-visual { height: 600px; position: relative; overflow: hidden; display: flex; align-items: center; justify-content: center; }
+.project-visual { height: 700px; position: relative; overflow: hidden; display: flex; align-items: center; justify-content: center; }
 .visual-web { background: linear-gradient(135deg, #ede9fe, #e0f2fe); }
 .visual-wp { background: #eef2ff; }
 .visual-seo { background: #ecfdf5; }
